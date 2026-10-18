@@ -7,7 +7,7 @@ This project is for my Module 6 Assignment. The goal is to create a simple guide
 - What Git and GitHub are
 - How to create a GitHub repository
 - How to use git add, commit, and push
-- How brancheds work
+- How branches work
 - How to create and merge pull requests
 
 ## Project Goal
@@ -18,4 +18,10 @@ The goal of this project is to teach beginners how to track code changes and man
 - GitHub
 - Visual Studio Code
 
-## YouTube Link:
+## Project Guides
+- [Getting Started with Git and GitHub](GETTING_STARTED.md)
+- [Branches and Pull Requests](BRANCHES_AND_PULL_REQUESTS.md)
+- [Merge Conflict Resolution](MERGE_CONFLICT.md)
+
+## Screencast:
+Will be added wwhen video is completed.
