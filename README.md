@@ -11,7 +11,7 @@ This project is for my Module 6 Assignment. The goal is to create a simple guide
 - How to create and merge pull requests
 
 ## Project Goal
-The goal of this project is to help beginners learn Git commands and understand how GitHub works.
+The goal of this project is to teach beginners how to track code changes and manage their project using Git and GitHub.
 
 ## Tools Used
 - Git
