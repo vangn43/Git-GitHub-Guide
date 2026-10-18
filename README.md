@@ -24,4 +24,4 @@ The goal of this project is to teach beginners how to track code changes and man
 - [Merge Conflict Resolution](MERGE_CONFLICT.md)
 
 ## Screencast:
-Will be added wwhen video is completed.
+(https://www.youtube.com/watch?v=jD15GgzmBiU)
