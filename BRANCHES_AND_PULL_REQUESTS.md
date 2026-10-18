@@ -16,3 +16,23 @@ Branches are useful because they allow developers to work on different parts of 
 4. Type `git pull origin main` to get the latest changes.
 5. Type `git switch -c feature/example` to create a new branch.
 6. Make changes to your files on the new branch.
+
+## What is a Pull Request?
+A pull request is a way to suggest changes from one branch to another. It allows developers to review the changes before adding them to the main branch.
+
+## How to Create a Pull Request
+1. Push your feature branch to GitHub.
+2. Open your repository on GitHub.
+3. Click the Pull Requests tab.
+4. Click New pull request.
+5. Select main as the base branch and your feature branch as the compare branch.
+6. Add  a title and description.
+7. Click Create pull request.
+
+## How to Merge a Pull Request
+1. Open the pull request on GitHub.
+2. Review the changes under Files changed.
+3. Make sure thatt there are no merge conflicts.
+4. Click Merge pull request.
+5. Click Confirm merge.
+6. Delete the feature branch when finished.
